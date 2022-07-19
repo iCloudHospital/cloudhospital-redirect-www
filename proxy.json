@@ -5,7 +5,7 @@
       "matchCondition": {
         "route": "/"
       },
-      "backendUri": "https://ch-redirect-www.azurewebsites.net/api/redirect-func"
+      "backendUri": "https://ch-redirect-www.azurewebsites.net/api/redirectFunc"
     }
   }
 }
