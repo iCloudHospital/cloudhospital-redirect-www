@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json.schemastore.org/proxies",
+  "proxies": {
+    "redirect": {
+      "matchCondition": {
+        "route": "/"
+      },
+      "backendUri": "https://ch-redirect-www.azurewebsites.net/api/redirect-func"
+    }
+  }
+}
